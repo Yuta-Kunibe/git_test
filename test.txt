@@ -1,1 +1,2 @@
 git_testにtest.txt追加
+git status
