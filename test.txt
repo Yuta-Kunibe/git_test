@@ -1,4 +1,3 @@
 git_testにtest.txt追加
 git status
 git diff
-test2 と共に修正
