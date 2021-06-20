@@ -1,2 +1,2 @@
 test2作成
-dev1環境でtest2に行追加
+dev2で追加後、dev1環境でtest2に行追加
