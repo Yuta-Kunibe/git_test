@@ -2,4 +2,3 @@ git_testにtest.txt追加
 git status
 git diff 2
 dev1 から test1 にコメント追加
-dev2 から コメント追加
