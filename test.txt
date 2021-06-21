@@ -1,4 +1,4 @@
 git_testにtest.txt追加
 git status
 git diff 2
-dev1 から br1 ブランチにて修正
+dev1 から br1 ブランチにて追加修正
