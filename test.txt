@@ -1,3 +1,4 @@
 git_testにtest.txt追加
 git status
 git diff 2
+masterブランチでtest.txt更新
