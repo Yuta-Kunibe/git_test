@@ -1,4 +1,2 @@
-test2作成
-dev2で追加後、dev1環境でtest2に行追加
-再度、dev1からも3行目にコメント追加
-master ブランチで test2 を編集
+test2 作成
+test2 編集
