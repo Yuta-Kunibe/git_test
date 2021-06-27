@@ -2,3 +2,4 @@ git_testにtest.txt追加
 git status
 git diff 2
 masterブランチでtest.txt更新
+br1 で編集1
