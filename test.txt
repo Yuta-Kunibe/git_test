@@ -4,3 +4,4 @@ git status
 git diff 2
 新環境からテスト
 br1から追記
+br1から終了行追記 おわり
