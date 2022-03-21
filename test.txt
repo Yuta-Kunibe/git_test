@@ -4,4 +4,3 @@ git status
 git diff 2
 新環境からテスト
 br1から終了行追記
-merge test
