@@ -2,5 +2,5 @@ masterから追記
 git_testにtest.txt追加
 git status
 git diff 2
-新環境からテスト
+新環境からテスト dev1から追記
 
